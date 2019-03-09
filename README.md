@@ -5,3 +5,5 @@ ArduBoy Project Musical scales &amp; Bass fret visualization
 - Bass 4 strings and 12-fret visualization
 - Pentagram visualization
 - Play live full scale or single note
+
+With hex file for instant upload
