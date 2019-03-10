@@ -22,8 +22,8 @@ https://arduboy.com/
 <hr>
 
 # Menu Info
-0-AeN: scala a e n
-1-KEY: tab e play automatici
-2-MAN: play manuale
-3-PEN: pentagramma
-4-INF: info
+0-AeN: scala a e n<br>
+1-KEY: tab e play automatici<br>
+2-MAN: play manuale<br>
+3-PEN: pentagramma<br>
+4-INF: info<br>
