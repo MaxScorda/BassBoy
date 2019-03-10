@@ -9,6 +9,7 @@ ArduBoy Project Musical scales &amp; Bass fret visualization
 With hex file for instant upload
 
 Info video here
+
 Pentagram visualization
 
 https://www.facebook.com/massimiliano.scordamaglia/videos/10154821437733406/
