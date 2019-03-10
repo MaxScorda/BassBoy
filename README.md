@@ -10,13 +10,20 @@ With hex file for instant upload
 
 Info video here
 
-Pentagram visualization
-
+Pentagram visualization<br>
 https://www.facebook.com/massimiliano.scordamaglia/videos/10154821437733406/
 
-Bass 4 strings and 12-fret visualization
-
+Bass 4 strings and 12-fret visualization<br>
 https://www.facebook.com/massimiliano.scordamaglia/videos/10154783439463406/
 
-ArduBoy website
+ArduBoy website<br>
 https://arduboy.com/
+
+<hr>
+
+# Menu Info
+0-AeN: scala a e n
+1-KEY: tab e play automatici
+2-MAN: play manuale
+3-PEN: pentagramma
+4-INF: info
